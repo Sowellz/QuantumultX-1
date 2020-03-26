@@ -33,10 +33,8 @@ const __repo = "QuantumultX"
 const __branch = "eval_script"
 // GitHub 文件路径（没有文件新创建，已有文件覆盖更新，路径为空 "" 不更新）
 const __quanxPath = "eval_sub/quanx.conf"
-const __surgePath = "eval_sub/surge.conf"
 // GitHub 更新日志
 const __quanxCommit = "update"
-const __surgeCommit = "update"
 
 const __emoji = "• "
 const __emojiDone = "✔️"
