@@ -26,17 +26,15 @@ const __username = "xxx"
 // GitHub 密码
 const __password = "xxx"
 // GitHub 用户名
-const __owner = "yichahucha"
+const __owner = "Orz-3"
 // GitHub 仓库名
-const __repo = "surge"
+const __repo = "QuantumultX"
 // GitHub 分支（不指定就使用默认分支）
-const __branch = "master"
+const __branch = "eval_script"
 // GitHub 文件路径（没有文件新创建，已有文件覆盖更新，路径为空 "" 不更新）
-const __quanxPath = "eval_sub/quanx.txt"
-const __surgePath = "eval_sub/surge.txt"
+const __quanxPath = "eval_sub/quanx.conf"
 // GitHub 更新日志
 const __quanxCommit = "update"
-const __surgeCommit = "update"
 
 const __emojiDone = ""
 const __emojiFail = "🙃"
