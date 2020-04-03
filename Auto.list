@@ -1,3 +1,6 @@
+#今日热榜
+host-suffix, api.tophub.today, proxy
+
 #黑沙
 host-suffix, pearl-bdm.com, proxy
 host-suffix, blackdesertm.com, proxy
