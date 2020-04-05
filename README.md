@@ -12,10 +12,4 @@
 
 @NobyDa 贴吧，吾爱，爱奇艺签到等
 
-@Choler 去微信公众号广告
-
-@yichahucha 去微博应用内广告 
-
-@onewayticket255 哔哩哔哩动画去广告
-
 @chavyleung WPS签到
