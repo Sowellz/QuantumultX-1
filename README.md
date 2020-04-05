@@ -13,3 +13,5 @@
 @NobyDa 贴吧，吾爱，爱奇艺签到等
 
 @chavyleung WPS签到
+
+@yichahucha eval_script.js
