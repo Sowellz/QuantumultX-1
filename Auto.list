@@ -1,6 +1,7 @@
 #更新订阅
 host-suffix, hxlm.cc, direct
 host-suffix, www.bityun.co, direct
+host-suffix, bityun.org, direct
 
 #今日热榜
 host-suffix, api.tophub.today, direct
