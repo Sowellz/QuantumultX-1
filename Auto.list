@@ -10,9 +10,6 @@ host-keyword, api.tophub.today, direct
 host-suffix, pearl-bdm.com, proxy
 host-suffix, blackdesertm.com, proxy
 
-#绕过企业证书过期
-host, ocsp.apple.com, reject
-
 #TIKTOK-去水印广告拦截
 host-suffix, musical.ly, proxy
 host-suffix, tiktokv.com,proxy
