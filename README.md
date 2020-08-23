@@ -22,7 +22,9 @@
 
   6.打开重写和Mitm<br>
 
-  7.添加节点/订阅，开始使用<br>
+  7.添加节点/订阅，并左滑添加订阅标签（重要，不添加标签是无法筛选的）<br>
+  
+  8.开始使用<br>
 
 ### 注意事项：
 
@@ -41,7 +43,9 @@
   7.默认已解锁Tiktok，如想去YouTube广告，请在重写中启用YouTube去广告<br>
 
 
-######  配置中内容收集整理自以下大佬
+######  配置中内容收集整理自以下大佬 （Task脚本由于作者，贡献者众多，这里仅标出我采集脚本的库，同样感谢未能标出的各位贡献者）
+
+#### 特别感谢：
 
   * [@ConnersHua](https://github.com/ConnersHua)
 
@@ -50,6 +54,8 @@
   * [@JasonLee-Go](https://github.com/JasonLee-Go)
 
   * [@NobyDa](https://github.com/NobyDa)
+  
+  #### Task脚本作者：
 
   * [@chavyleung](https://github.com/chavyleung)
 
@@ -58,3 +64,19 @@
   * [@zZPiglet](https://github.com/zZPiglet)
 
   * [@Sunert](https://github.com/Sunert)
+  
+  * [@lowking](https://github.com/lowking)
+    
+  * [@toulanboy](https://github.com/toulanboy)
+  
+  * [@lxk0301](https://gitee.com/lxk0301)
+  
+  * [@vinewx](https://ooxx.be/js/)
+  
+  * [@chouchoui](https://github.com/chouchoui)
+  
+  * [@iepngs](https://github.com/iepngs)  
+  
+  
+      
+      
