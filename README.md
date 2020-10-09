@@ -40,7 +40,7 @@
 
   6.如果你购买Quantumult X还不足30天，无法一键更新，在启用Get-Cookie时，请搜索并单独缓存你需要的获取cookie脚本<br>
 
-  7.默认已解锁Tiktok，如想去YouTube广告，请在重写中启用YouTube去广告<br>
+  7.默认已解锁Tiktok<br>
 
 
 ######  配置中内容收集整理自以下大佬 （Task脚本由于作者，贡献者众多，这里仅标出我采集脚本的库，同样感谢未能标出的各位贡献者）
@@ -53,8 +53,16 @@
 
   * [@JasonLee-Go](https://github.com/JasonLee-Go)
 
-  * [@NobyDa](https://github.com/NobyDa)
-  
+ #### JS脚本作者： 
+
+ * [@NobyDa](https://github.com/NobyDa)
+ 
+ * [@yichahucha](https://github.com/yichahucha)
+
+ * [@onewayticket255](https://github.com/onewayticket255)
+
+ * [@Choler](https://github.com/Choler)
+ 
   #### Task脚本作者：
 
   * [@chavyleung](https://github.com/chavyleung)
@@ -66,6 +74,8 @@
   * [@Sunert](https://github.com/Sunert)
   
   * [@lowking](https://github.com/lowking)
+  
+  * [@songyangzz](https://github.com/songyangzz)
     
   * [@toulanboy](https://github.com/toulanboy)
   
@@ -75,8 +85,23 @@
   
   * [@chouchoui](https://github.com/chouchoui)
   
+  * [@evilbutcher](https://github.com/evilbutcher)  
+  
+  * [@id77](https://github.com/id77)   
+  
+  * [@dompling](https://github.com/dompling)  
+  
   * [@iepngs](https://github.com/iepngs)  
+ 
+  * [@wangdelu2020](https://github.com/wangdelu2020) 
   
+  * [@barrym-chen](https://github.com/barrym-chen) 
   
-      
-      
+  * [@ziye12](https://github.com/ziye12)
+
+  * [@iisams](https://github.com/iisams)
+  
+  * [@congcong0806](https://github.com/congcong0806)
+  
+  * [@XidNDD](https://github.com/XidNDD) 
+  
