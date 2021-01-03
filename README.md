@@ -2,7 +2,7 @@
 
 ### 配置说明：
 
-  本配置由神机规则修改而来，修改了默认策略组，增加了正则筛选策略组，并集成了Nobyda的去广告脚本和重写，同时集合了大量task类签到脚本，默认皆为禁用，可按需求启用<br>
+  本配置由神机规则修改而来，修改了默认策略组，增加了正则筛选策略组，并集成了Nobyda的去广告脚本和重写，附带按task脚本作者分类的task订阅，可按需求订阅<br>
 
 ### 补充说明：
 
@@ -36,14 +36,14 @@
 
   4.集成了Nobyda库中的去广告类js<br>
 
-  5.集成大量task，默认皆为禁用，请根据需求启用，启用需额外在重写中启用JS-GetCookie，并按脚本中说明获取cookie方可用<br>
+  5.Task请在Task文件夹内按需求添加订阅，使用需额外在重写中启用JS-GetCookie，并按脚本中说明获取cookie方可用<br>
 
   6.如果你购买Quantumult X还不足30天，无法一键更新，在启用Get-Cookie时，请搜索并单独缓存你需要的获取cookie脚本<br>
 
-  7.默认已解锁Tiktok<br>
+  7.默认已解锁Tiktok日区<br>
 
 
-######  配置中内容收集整理自以下大佬 （Task脚本由于作者，贡献者众多，这里仅标出我采集脚本的库，同样感谢未能标出的各位贡献者）
+######  配置中内容收集整理自以下大佬 （Task脚本作者移动到Task文件夹下的readme中）
 
 #### 特别感谢：
 
@@ -63,47 +63,6 @@
 
  * [@Choler](https://github.com/Choler)
  
-  #### Task脚本作者：
-
-  * [@chavyleung](https://github.com/chavyleung)
-
-  * [@Peng-YM](https://github.com/Peng-YM)
-
-  * [@zZPiglet](https://github.com/zZPiglet)
-
-  * [@Sunert](https://github.com/Sunert)
-  
-  * [@lowking](https://github.com/lowking)
-  
-  * [@songyangzz](https://github.com/songyangzz)
-    
-  * [@toulanboy](https://github.com/toulanboy)
-  
-  * [@lxk0301](https://gitee.com/lxk0301)
-  
-  * [@vinewx](https://ooxx.be/js/)
-  
-  * [@chouchoui](https://github.com/chouchoui)
-  
-  * [@evilbutcher](https://github.com/evilbutcher)  
-  
-  * [@id77](https://github.com/id77)   
-  
-  * [@dompling](https://github.com/dompling)  
-  
-  * [@iepngs](https://github.com/iepngs)  
-  
-  * [@barrym-chen](https://github.com/barrym-chen) 
-
-  * [@iisams](https://github.com/iisams)
-  
-  * [@congcong0806](https://github.com/congcong0806)
-  
-  * [@XidNDD](https://github.com/XidNDD) 
-  
-  * [@wangdelu2020](https://github.com/wangdelu2020) 
-  
-  * [@passerby-b](https://gitee.com/passerby-b) 
-  
-  * [@photonmang](https://github.com/photonmang) 
-  
+ * [@srk24](https://github.com/srk24)
+ 
+ * [@blackmatrix7](https://github.com/blackmatrix7)
