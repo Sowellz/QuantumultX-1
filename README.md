@@ -1,3 +1,5 @@
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
+
 ## QuantumultX小白配置
 
 ### 配置说明：
@@ -6,7 +8,7 @@
 
 ### 使用方法：
 
-  1.点击库中的Orz-3.conf文件，点击raw获取真实地址，复制地址备用<br>
+  1.(移动端先点View code打开库里文件列表)点击库中的Orz-3.conf文件，点击raw获取真实地址，复制地址备用<br>
 
   2.Quan X主界面，点击右下角风车，然后弹出界面下拉至 配置文件-下载，点击下载，将上一步复制的地址粘贴到弹出窗口，然后点确定<br>
 
@@ -27,8 +29,18 @@
   1.默认10个策略组，其中5个为正则筛选，分别将 香港，台湾，新加坡，美国，日本地区节点筛选出来<br>
 
   2.其余5个策略组均是套用上面的筛选策略组，因此请先确定5个地区策略中选中的节点可用<br>
+  
+  *全球加速→国外网站*
+  
+  *苹果服务→Appstore，Testflight*
+  
+  *港台番剧→哔哩哔哩，爱奇艺*
+  
+  *国际媒体→YouTube、Netflix、Amazon Prime Video 这类覆盖地区广泛或没有进行区域限制的流媒体服务*
+  
+  *黑白名单→Final，即规则没有涉及到的*
 
-  3.分流中，已将动画疯默认为台湾地区<br>
+  3.限定区域的流媒体服务已经指向对应区域策略（UK和KR除外因为没做相应地区策略）TikTok默认指定全球加速，国内网站默认指定Direct，去广告默认指定Reject<br>
 
   4.集成了Nobyda库中的去广告类js<br>
 
@@ -36,7 +48,8 @@
 
   6.如果你购买Quantumult X还不足30天，无法一键更新，在启用Get-Cookie时，请搜索并单独缓存你需要的获取cookie脚本<br>
 
-  7.默认已解锁Tiktok日区<br>
+  7.默认已解锁Tiktok日区，如需改区，本地在[rewrite_local]下方添加(?<=_region=)CN(?=&) url 307 JP  
+将JP更改成你想改的区域<br>
 
 
 ######  配置中内容收集整理自以下大佬 （Task脚本作者移动到Task文件夹下的readme中）
@@ -55,10 +68,13 @@
  
  * [@yichahucha](https://github.com/yichahucha)
 
- * [@onewayticket255](https://github.com/onewayticket255)
-
  * [@Choler](https://github.com/Choler)
  
  * [@srk24](https://github.com/srk24)
  
  * [@blackmatrix7](https://github.com/blackmatrix7)
+ 
+#### BoxJS作者： 
+
+ * [@chavyleung](https://github.com/chavyleung)
+ 
